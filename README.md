@@ -6,10 +6,9 @@
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/Gmail-sharma.mukul290%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharma.mukul290@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mukul%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukul-sharma)
-[![Location](https://img.shields.io/badge/📍-Germany-2ea44f?style=for-the-badge)](#)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharma.mukul290@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukul-sharma)
+[![Google Maps](https://img.shields.io/badge/Germany-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 </div>
 
 ---
