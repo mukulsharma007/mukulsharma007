@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mukul%20Sharma&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=60&descColor=a0a0ff&descSize=20"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;NLP+%26+RAG+Builder+%F0%9F%A7%A0;MSc+CS+%40+Leibniz+University+Hannover+%F0%9F%8E%93" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;NLP+%26+RAG+Builder+%F0%9F%A7%A0;MSc+Computer+Science+%40" alt="Typing SVG" /></a>
 
 <br/><br/>
 
