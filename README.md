@@ -7,7 +7,7 @@
 <br/><br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharma.mukul290@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukul-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukulsharma290/)
 [![Google Maps](https://img.shields.io/badge/Germany-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 </div>
 
@@ -144,7 +144,7 @@ I care about building things that actually work, not just things that look good 
 <div align="center">
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukul-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukulsharma290/)
 
 <br/>
 
